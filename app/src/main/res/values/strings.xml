@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">HomeSweat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="hello_this_is_the_login_page">hello this is the login page</string>
+    <string name="hello_this_is_the_registration_page">Hello this is the registration page</string>
+    <string name="training">Training</string>
+    <string name="report">Report</string>
+    <string name="discover">Discover</string>
+    <string name="ai_helper">AI Helper</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="ai_intro_message">I\'m your new exercise companion, here to guide and support you on your fitness journey. Let\'s create a personalized plan together to help you reach your goals. Whether you\'re starting out or aiming for the next level, I\'m here to make your fitness experience enjoyable and effective. Let\'s achieve your fitness goals together</string>
+    <string name="welcome">Welcome to</string>
+    <string name="welcome_message">Join our exercise community! Create an account today and start your fitness journey with us!</string>
+    <string name="already">Already have an account?</string>
+    <string name="getting_started">Getting Started</string>
+    <string name="name_here">Name Here</string>
+    <string name="todo">TODO</string>
+    <string name="teambangan">TEAMBANGAN</string>
+    <string name="weekly_goals">Weekly Goals</string>
+    <string name="welcome_back">Welcome back,</string>
+    <string name="username_here">username here</string>
+    <string name="kick_off">Kick off your journey with these exercises.</string>
+
+    <string name="what_is_BMI"> BMI is a useful measure of overweight and obesity.
+                                BMI is an estimate of body fat and a good gauge of your risk
+                                for diseases that can occur with more body fat.
+                                The higher your BMI, the higher your risk for certain diseases
+                                such as heart disease,high blood pressure, type 2 diabetes,
+                                gallstones, breathing problems, and certain cancers.
+    </string>
+    <string name="type">Type\n
+                        Underweight\n
+                        Normal\n
+                        Overweight\n
+                        Obesity
+    </string>
+    <string name="bmi"> BMI\n
+                        Below 18.5\n
+                        Below 18.5\n
+                        18.5 – 24.9\n
+                        30.0 and Above
+    </string>
+    <string name="mountain_climber">Mountain Climber</string>
+    <string name="mountainclimber">mountainclimber</string>
+    <string name="crunches">Crunch</string>
+    <string name="jumping_jacks">Jumping Jack</string>
+    <string name="squat">squat</string>
+    <string name="squats">Squat</string>
+    <string name="step_up">Step Up</string>
+    <string name="lorem">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</string>
+    <string name="arms_stretch">Arm Stretch</string>
+    <string name="arm_circle">Arm Circle</string>
+    <string name="tricep_stretch">Tricep Stretch</string>
+    <string name="lunges">Lunges</string>
+    <string name="custom_exercise">Your Customized Daily Exercise</string>
+    <string name="create_routine">Create New Routine</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="confirm_create_new">Are You Sure You Want To Create New Routine?</string>
+    <string name="AI_inquiry">Type your Inquiries here</string>
+    <string name="submit_ai_inquiry">Submit AI Inquiry</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">confirm</string>
+    <string name="exercise_name">exercise name</string>
+    <string name="image_of_exercise_will_display_here">Image of Exercise will display here</string>
+    <string name="personalized_exercise_list">Personalized Exercise List</string>
+    <string name="welcome_container">welcome_container</string>
+    <string name="homesweat">HomeSweat</string>
+    <string name="assistant">Assistant</string>
+    <string name="health_insights">Health Insights</string>
+    <string name="bmi_calculator">Body Mass Index Calculator</string>
+    <string name="gender">Gender</string>
+    <string name="height_in_cm">Height in Centimeters</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="scrollforheight">scrollForHeight</string>
+    <string name="bmi_results">BMI Results</string>
+    <string name="this_is_where_all_the_results_will_be_displayed">This is where all the results will be displayed</string>
+    <string name="history">History</string>
+    <string name="exercise_history">Exercise History</string>
+    <string name="exercise_history_for_the_month_of">Exercise History for the Month of</string>
+    <string name="no_logs_found">No Logs Found</string>
+    <string name="create_an_account_and_join_the_community">Create an account and join the community</string>
+    <string name="welcome_back_please_sign_in_to_continue">Welcome back! Please log in to continue</string>
+</resources>
